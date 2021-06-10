@@ -1,0 +1,57 @@
+.foto-perfil {
+    height: 200;
+    width:200;
+    max-width: 100;
+    border-radius: 50%;
+}
+.corPrimaria{
+    background-color: rgb(153, 198, 207);
+}
+.corSecundaria {
+    background-color: rgb(184, 136, 154);
+    text-align: center;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black !important;
+    text-align: center;
+}
+.icones {
+    padding-left: 5px;
+    color: black;
+}
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: initial;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+.titulosRoxos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(253, 253, 253);
+}
+.textoBranco {
+    color: rgb(243, 231, 236) !important;
+    text-align: center;
+}
+.textoCinza {
+    color: rgb(184, 136, 154);
+}
+.card-img-top{
+    height: 100;
+    width: 100;
+}
+ul, li {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
